@@ -6,3 +6,7 @@ pytesseract
 psycopg2
 python-dotenv
 Pillow
+psycopg2-binary
+sqlalchemy
+pgvector
+
